@@ -4,9 +4,9 @@ import joblib
 
 st.set_page_config(page_title="Auto MPG Predictor", page_icon="🚗", layout="centered")
 
-# --------------------------------
+# ------------------------------------
 # Load Model (LOCAL ONLY)
-# --------------------------------
+# ------------------------------------
 @st.cache_resource
 def load_model():
     return joblib.load("Auto-mpg_best_model.pkl")
