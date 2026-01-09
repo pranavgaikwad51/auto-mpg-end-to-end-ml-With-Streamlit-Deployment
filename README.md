@@ -131,7 +131,7 @@ A complete **interactive prediction UI** built using Streamlit.
 
 ### 🔗 Live App (Cloud Deployment)
 
-*(Add the link once deployed)*
+https://auto-mpg-end-to-end-ml-with-app-deployment-by-pranav.streamlit.app/
 
 ### 🧱 App Features
 
